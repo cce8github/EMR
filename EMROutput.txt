@@ -1,0 +1,2 @@
+RecDate	RecTime		HR	RR	EndTid	BP	User						SubmitDateTime
+

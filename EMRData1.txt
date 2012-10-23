@@ -1,1 +1,0 @@
-RecDate	RecTime		HR(BPM)	RR	EndT'l	BP(S/D(mmHg))	SubmitDateTime
